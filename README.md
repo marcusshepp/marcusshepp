@@ -84,8 +84,8 @@
 
 ###
 
-<div align="center">
-	Profile Views:
+<div align="center" style="display: flex; justify-content: center; align-items:center;">
+	<h3>Profile Views:</h3>
   <img src="https://profile-counter.glitch.me/marcusshepp/count.svg?"  />
 </div>
 
