@@ -4,7 +4,7 @@
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
-<p style="text-align: center;">
+<p style="display: flex; justify-content: center; align-items: center;">
 	<img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/3569921?label=Stackoverflow%20Rep%20for%20Marcus%20Shepherd&link=https%3A%2F%2Fstackoverflow.com%2Fusers%2F3569921%2Fmarcusshep">
 </p>
 
