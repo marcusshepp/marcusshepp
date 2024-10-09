@@ -1,4 +1,7 @@
-
+<h1 align="center">Marcus Shepherd <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"> Fast Typer ;D</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Deep+Learning+Developer;ML%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
