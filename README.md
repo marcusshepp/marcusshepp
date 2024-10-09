@@ -85,11 +85,8 @@
 ###
 
 <div align="center">
+	Profile Views:
   <img src="https://profile-counter.glitch.me/marcusshepp/count.svg?"  />
 </div>
-
-<p align = "center">
-	<img src = "https://komarev.com/ghpvc/?username=marcusshepp&style=plastic&color=blueviolet" alt = "Profile Views"/>
-</p>
 
 ###
