@@ -1,4 +1,9 @@
 
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
+<div align="center">
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
@@ -37,5 +42,9 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/marcusshepp/count.svg?"  />
 </div>
+
+<p align = "center">
+	<img src = "https://komarev.com/ghpvc/?username=marcusshepp&style=plastic&color=blueviolet" alt = "Profile Views"/>
+</p>
 
 ###
