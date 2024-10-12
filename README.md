@@ -1,4 +1,4 @@
-<h1 align="center">Marcus Shepherd <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"> Fast Typer ;D</h1>
+<h1 align="center">Marcus Shepherd <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"> fooist of bars</h1>
 
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
