@@ -1,4 +1,4 @@
-<h1 align="center">Marcus Shepherd <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35">Mindful Vimage</h1>
+<h1 align="center">Marcus Shepherd <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35">Neovide is actually dope</h1>
 
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
