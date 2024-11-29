@@ -1,5 +1,7 @@
 <h1 align="center">Marcus Shepherd <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35">Be Water</h1>
 
+You can take the developer out of unix but you can't take the unix out of the developer ✊🏾
+
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
